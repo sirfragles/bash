@@ -2,3 +2,5 @@ Nokia
 Samsung
 LG
 Motorola
+Sony
+
